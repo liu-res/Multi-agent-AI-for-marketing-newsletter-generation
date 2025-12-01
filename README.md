@@ -1,4 +1,4 @@
-# Newsletter Automation System
+# Multi-agent for Marketing Newsletter Generation
 
 A multi-agent AI system that automatically generates HTML newsletters by extracting product insights, researching industry trends, and creating email-ready EDM designs.
 
