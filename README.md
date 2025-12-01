@@ -20,6 +20,9 @@ This system uses Google's Agent Development Kit (ADK) to orchestrate multiple sp
 3. Content_Writing_Agent creates newsletter content
 4. Visual_Design_Agent creates HTML newsletter
 
+<img width="2970" height="2370" alt="image" src="https://github.com/user-attachments/assets/8151d720-b807-43b8-9680-ecdde7b05581" />
+
+
 **Design-Only Mode** (when `newsletter_content.txt` exists):
 1. Visual_Design_Agent reads existing content
 2. Creates HTML newsletter directly
